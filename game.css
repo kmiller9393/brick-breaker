@@ -3,6 +3,10 @@
   justify-content: center;
 }
 
+#brick-ball {
+  display: none;
+}
+
 #gameScreen {
   border: 2px solid black;
   margin-top: 5rem;
