@@ -1,5 +1,9 @@
-#game {
-  border: 1px dashed;
-  margin: auto;
-  display: block;
+.gameContainer {
+  display: flex;
+  justify-content: center;
+}
+
+#gameScreen {
+  border: 2px solid black;
+  margin-top: 5rem;
 }
